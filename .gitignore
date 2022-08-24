@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#служебные файлы в папке /.vscode
+.vscode/
